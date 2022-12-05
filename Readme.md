@@ -1,0 +1,1 @@
+This repository consists of data analysis on a Liver Steatosis dataset collected at Cleveland clinic for finding out the prevelence of liver steatosis in the morbidly obese patients who have undergone bariatric surgery. 
